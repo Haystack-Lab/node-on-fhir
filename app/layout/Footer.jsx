@@ -45,7 +45,7 @@ function Footer(props) {
 
   function renderWestNavbar(pathname){
     logger.trace('Checking packages for action buttons that match the following pathname: ' + pathname);
-    logger.verbose('package.care-cards.client.layout.Footer.renderWestNavbar');
+    // logger.verbose('package.care-cards.client.layout.Footer.renderWestNavbar');
 
     let self = this;
 
